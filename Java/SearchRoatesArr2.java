@@ -1,4 +1,3 @@
-package Java;
 
 public class SearchRoatesArr2 {
     public boolean search(int[] nums, int target) {

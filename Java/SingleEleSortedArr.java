@@ -1,4 +1,3 @@
-package Java;
 
 public class SingleEleSortedArr {
     public static int singleNonDuplicate(int[] nums) {

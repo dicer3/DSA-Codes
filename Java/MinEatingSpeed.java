@@ -1,4 +1,3 @@
-package Java;
 
 public class MinEatingSpeed {
     public static int minEatingSpeed(int[] piles, int h) {

@@ -1,4 +1,3 @@
-package Java;
 
 public class AddStars {
     public static String addStars(String s) {
